@@ -5,8 +5,8 @@ Add oidc setup to kops cluster:
 ```
 spec:
   kubeAPIServer:
-    oidcIssuerURL: https://account.eu.auth0.com/
-    oidcClientID: clientid
+    oidcIssuerURL: https://ehh.auth0.com/
+    oidcClientID: N5q8k0yugbneBN3A9iS3RsVOcTSOz8S3
     oidcUsernameClaim: sub
 ```
 
